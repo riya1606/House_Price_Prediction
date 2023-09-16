@@ -1,4 +1,4 @@
-# House_Price_Prediction
+# House Price Prediction
 ### Prerequisite: 
 In order to directly get the data from kaggle into your google colab notebook you can run a few commands as mentioned in the notebook. You also need to access **Kaggle API key**. You can obtain your API key by logging into Kaggle, going to your account settings, and generating a new API key. Download the API key file (usually named "kaggle.json"). Upload this file into your session and replace your username and API_key.
 
